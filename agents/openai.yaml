@@ -1,0 +1,4 @@
+interface:
+  display_name: "C++ Dev Flow"
+  short_description: "C++ DLL: requirements, code, VS project, MSBuild, deploy"
+  default_prompt: "Start C++ development workflow"
